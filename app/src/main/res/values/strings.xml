@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Antron Express</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="not_registered">Not Registered ?</string>
+    <string name="login">LOGIN</string>
+    <string name="Registered">Register</string>
+    <string name="receiver_name">Receiver Name</string>
+    <string name="address">Address</string>
+    <string name="option1">Customer</string>
+    <string name="option2">POD</string>
+    <string name="option3">Delivery</string>
+</resources>
